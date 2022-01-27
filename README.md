@@ -1,1 +1,1 @@
-Solutions of the C++ course from Yandex and MIPT university.
+Some major projects from C++ specialization from Yandex and MIPT university.
